@@ -1,6 +1,7 @@
 torch
-skimage
+skikit-image
 numpy
 matplotlib
 argparse
 PIL
+Ipython
